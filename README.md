@@ -48,3 +48,4 @@ The Power BI dashboard will provide insights into the following areas:
 - A clear identification of the highest fuel-consuming and emission-generating years.
 - Detailed emissions data segmented by manufacturer.
 - Year-over-year fuel consumption and emission trends.
+![image](https://github.com/user-attachments/assets/e1135904-00c1-4a56-91f2-6934bc30b9ba)
