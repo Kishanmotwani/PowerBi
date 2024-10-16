@@ -1,6 +1,3 @@
-Here’s a formatted `README.md` file suitable for a GitHub repository based on your project report:
-
-```markdown
 # Project Report on Fuel Consumption Analysis (2000-2022)
 
 ## Introduction
@@ -51,7 +48,3 @@ The Power BI dashboard will provide insights into the following areas:
 - A clear identification of the highest fuel-consuming and emission-generating years.
 - Detailed emissions data segmented by manufacturer.
 - Year-over-year fuel consumption and emission trends.
-
-```
-
-You can copy and paste this content into a file named `README.md` in your GitHub repository. Let me know if you need any further modifications!
